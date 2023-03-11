@@ -1,0 +1,24 @@
+{
+  "name": "@mt333/cs256",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "cs256": "./index.js"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "readline": "^1.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mistakes0fficial/"
+  },
+  "author": "Mistakes333",
+  "license": "MIT"
+}
+
